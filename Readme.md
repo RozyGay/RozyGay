@@ -20,12 +20,12 @@
 
 - **Location**: Russia.
 - **Languages**: Russian, English, a little German
-- **Favourite Games**: SCP: Deleted Facility (my game), CS2, Arma3, Squad, SCP: Secret Laboratory.
+- **Favourite Games**: SCP:CB, CS2, Arma3, Squad, SCP: Secret Laboratory.
 
 ## Statistics
 
 ### Profile
-<img src="https://github-readme-stats.vercel.app/api?username=SuperLoli-Team&show_icons=true&theme=apprentice" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuperLoli-Team&show_icons=true&theme=synthwave" />
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperLoli-Team&show_icons=true&theme=apprentice&layout=donut" />
