@@ -6,6 +6,7 @@
 <img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg" />
 <img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg" />
 <img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg" />
+  <img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c++.svg" />
 </p>
 
 ### Tools
