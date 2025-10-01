@@ -1,33 +1,53 @@
-# Rozy Gay
-## Skills
-### Languages
-<p align="justify">
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg" />
-</p>
+# 👋 Hi, I'm RozyGay
 
-### Tools
-<p align="justify">
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg" />
-<img height="100" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Game+Developer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-## About Me
+## 🚀 About Me
 
-- **Location**: Russia.
-- **Languages**: Russian, English, a little German
-- **Favourite Games**: SCP:CB, CS2, Arma3, Squad, SCP: Secret Laboratory.
+- 🌍 **Location**: Russia
+- 💬 **Languages**: Russian, English, a little German
+- 🎮 **Favorite Games**: SCP:CB, CS2, Arma3, Squad, SCP: Secret Laboratory, Hitman
+- 🔭 **Currently working on**: Plugins or SCP:SL and my [OliveProject](https://discord.gg/8sfvXTWHmN)
+- 📫 **How to reach me**: Check my repositories and contribute!
 
-## Statistics
+## 🛠️ Tech Stack
 
-### Profile
-<img src="https://github-readme-stats.vercel.app/api?username=RozyGay&show_icons=true&theme=synthwave" />
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,cpp,python" alt="Programming Languages" />
+</div>
 
-### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozyGay&show_icons=true&theme=apprentice&layout=donut" />
+### 🔧 Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,mysql,git,github,vscode,blender" alt="Tools & Technologies" />
+</div>
 
-## Thanks for checking out my profile!
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RozyGay&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozyGay&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RozyGay&theme=synthwave" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RozyGay&theme=synthwave&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RozyGay&theme=synthwave-84" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile!</h3>
+  <img src="https://komarev.com/ghpvc/?username=RozyGay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
