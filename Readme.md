@@ -45,6 +45,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RozyGay&theme=synthwave-84" alt="Activity Graph" />
 </div>
 
+### xd
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RozyGay/RozyGay/blob/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/RozyGay/RozyGay/blob/output/github-snake.svg" />
+ <img alt="GitHub Snake Animation" src="https://github.com/RozyGay/RozyGay/blob/output/github-snake.svg" />
+</picture>
+
 ---
 
 <div align="center">
