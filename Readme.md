@@ -1,4 +1,4 @@
-# SuperLoli Team
+# Rozy Gay
 ## Skills
 ### Languages
 <p align="justify">
@@ -25,9 +25,9 @@
 ## Statistics
 
 ### Profile
-<img src="https://github-readme-stats.vercel.app/api?username=SuperLoli-Team&show_icons=true&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api?username=RozyGay&show_icons=true&theme=synthwave" />
 
 ### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperLoli-Team&show_icons=true&theme=apprentice&layout=donut" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RozyGay&show_icons=true&theme=apprentice&layout=donut" />
 
 ## Thanks for checking out my profile!
