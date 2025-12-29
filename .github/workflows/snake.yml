@@ -1,25 +1,40 @@
-name: Generate Snake
+name: GOIDA
+
 on:
- schedule:
-   - cron: "0 0 * * *" # Runs daily at midnight
- workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
 jobs:
- build:
-   runs-on: ubuntu-latest
-   steps:
-     - name: Checkout Repository
-       uses: actions/checkout@v2
-     - name: Generate Snake Animation
-       uses: Platane/snk@v3
-       with:
-         github_user_name: ${{ github.repository_owner }}
-         outputs: |
-           dist/github-snake.svg
-           dist/github-snake-dark.svg?palette=github-dark
-     - name: Upload Snake Animation
-       uses: crazy-max/ghaction-github-pages@v2.1.3
-       with:
-         target_branch: output
-         build_dir: dist
-       env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=cyan&color_dots=#06d6a0,#118ab2,#073b4c
+            dist/github-snake.gif?color_snake=#fb8500&color_dots=#8338ec,#3a86ff,#06d6a0,#ffbe0b,#fb5607
+            dist/neon.svg?color_snake=#ff006e&color_dots=#8338ec,#3a86ff,#06d6a0,#ffbe0b
+            dist/sunset.gif?color_snake=#ff6b6b&color_dots=#f72585,#b5179e,#7209b7,#560bad,#480ca8
+            dist/forest.svg?color_snake=#2d6a4f&color_dots=#40916c,#52b788,#74c69d,#95d5b2
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
