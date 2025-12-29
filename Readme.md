@@ -1,7 +1,7 @@
 # 👋 Hi, I'm RozyGay
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Game+Developer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Plugins+Developer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -9,7 +9,7 @@
 - 🌍 **Location**: Russia
 - 💬 **Languages**: Russian, English, a little German
 - 🎮 **Favorite Games**: SCP:CB, CS2, Arma3, Squad, SCP: Secret Laboratory, Hitman
-- 🔭 **Currently working on**: Plugins or SCP:SL and my [OliveProject](https://discord.gg/8sfvXTWHmN)
+- 🔭 **Currently working on**: Plugins for SCP:SL
 - 📫 **How to reach me**: Check my repositories and contribute!
 
 ## 🛠️ Tech Stack
