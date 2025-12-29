@@ -115,7 +115,7 @@ const RozyGay = {
 ## 🎵 Music
 
 <div align="center">
-  <a href="https://soundcloud.com/pananarmlnye-vestiya">
+  <a href="https://soundcloud.com/rozygoida">
     <img src="https://img.shields.io/badge/Listen%20on-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=0d1117" height="50"/>
   </a>
 </div>
