@@ -118,6 +118,10 @@ const RozyGay = {
   <a href="https://soundcloud.com/rozygoida">
     <img src="https://img.shields.io/badge/Listen%20on-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=0d1117" height="50"/>
   </a>
+
+  <a href="https://open.spotify.com/user/31n24dmftl5dud3uilizr2gzjiva?si=2aa5aa0956684d69" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Open%20in-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" height="50"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
