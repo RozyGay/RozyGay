@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=svo+zov+kokashki+%E2%9A%99%EF%B8%8F;☠️+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
